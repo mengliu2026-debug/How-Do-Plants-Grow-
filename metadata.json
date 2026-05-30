@@ -1,0 +1,6 @@
+{
+  "name": "How Do Plants Grow? - 英语互动精读",
+  "description": "面向二年级儿童的《How Do Plants Grow?》互动英文精读笔记。包含双语课文阅读、单词发音与卡片配对、趣味种子种植成长系统和小测验积分奖励。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
